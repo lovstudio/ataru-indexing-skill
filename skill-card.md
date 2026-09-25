@@ -1,4 +1,4 @@
-# Skill Card — lov-ataru-indexing
+# Ataru 索引 · Ataru Indexing · Skill Card
 
 This human-readable card mirrors `skill-card.yaml`. It is a release record, not
 an implementation note.
@@ -55,7 +55,7 @@ stdout 上的单个 UTF-8 JSON 对象，含 `state`、`searchAvailable`、`needs
 
 ## Skill Version
 
-0.1.0
+0.2.1
 
 ## Ethical Considerations
 

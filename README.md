@@ -1,13 +1,13 @@
 # Ataru 索引 · Ataru Indexing
 
-![Version](https://img.shields.io/badge/version-0.2.3-CC785C)
+![Version](https://img.shields.io/badge/version-0.2.4-CC785C)
 
 把本机 Ataru 会话记忆索引带到可检索状态，并交回一份能直接判断的 JSON 报告。
 
 ## 安装
 
 ```bash
-npx skills add lov-ataru-indexing -g -y
+npx lovstudio skills add ataru-indexing -g -y
 ```
 
 也可以在本仓库根目录把源码链接到本地 Skills 目录：
